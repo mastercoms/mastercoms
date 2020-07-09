@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software engineer who works on [Project Borealis](https://www.projectborealis.com/),
+[Glowstone](https://glowstone.net/), [mastercomfig](https://mastercomfig.com/) and more!
+
+Feel free to reach me at <mastercoms@tuta.io>.
+
 <!--
 **mastercoms/mastercoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
